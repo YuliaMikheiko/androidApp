@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IMDB Rating</string>
+    <string name="search_text">Введите название сериала для поиска</string>
+    <string name="text_hint">Введите название фильма</string>
+    <string name="search_button_text">Найти!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Название: </string>
+    <string name="years">Годы выхода: </string>
+    <string name="genre">Жанр: </string>
+    <string name="plot">Сюжет: </string>
+    <string name="imdb">IMDB: </string>
+    <string name="total_seasons">Количество сезонов: </string>
+    <string name="search">Идет поиск....</string>
+    <string name="field_error">Заполните поле для поика!</string>
+    <string name="not_found">Фильм не найден!</string>
+    <string name="history">История</string>
+    <string name="to_main">На главную</string>
+</resources>
